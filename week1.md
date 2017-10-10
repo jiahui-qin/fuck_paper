@@ -8,7 +8,9 @@
 
 [文献地址](http://xueshu.baidu.com/s?wd=paperuri%3A%28bc76c4208bc32d39d026c9e02fef3732%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0021967307006966&ie=utf-8&sc_us=8005351090699222897)
 
+在本文中，概述了代谢组学数据处理的关键步骤，重点回顾了与本主题相关的最新文献，特别是关于液相色谱质谱（LC-MS）实验数据处理的方法zho
 
+使用各种仪器得到数据之后重点在于对化合物的鉴定和定量，我们主要感兴趣的是生物系统反应导致与遗传变异或多种环境变化相关的代谢物水平调节，重要的是将感兴趣的生物变异与代谢物研究中引入的变异来源（包括数据处理的各个阶段）分开。 因此，数据处理的质量是我们正确分析和解释代谢组学数据的能力的重要步骤。
 
 ***
 
