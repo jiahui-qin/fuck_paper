@@ -7,6 +7,7 @@ README界面做的还是要简介一些，README就只放文献名称、时间�
 然后每周六到下周五开一个新文件来记录这周度过的文献的具体内容，具体的话要记一下文献的大致思想和我的理解
 
 ### week1
+
 1. Data processing for mass spectrometry-based metabolomics
 
     基于代谢组学的质谱数据处理
@@ -27,3 +28,16 @@ README界面做的还是要简介一些，README就只放文献名称、时间�
     key: 核磁共振; 代谢组学; 主成分分析; 偏最小二乘判别分析; 赭石; 
 [文献地址](http://xueshu.baidu.com/s?wd=+%E5%9F%BA%E4%BA%8E1HNMR%E7%BB%99%E8%8D%AF%E8%B5%AD%E7%9F%B3%E5%90%8E%E5%A4%A7%E9%BC%A0%E5%B0%BF%E6%B6%B2%E7%9A%84%E4%BB%A3%E8%B0%A2%E7%BB%84%E5%AD%A6%E5%88%86%E6%9E%90&tn=SE_baiduxueshu_c1gjeupa&cl=3&ie=utf-8&bs=journaluri%3A%28dff5e349c2cf161b%29+%E3%80%8AJournal+of+Chromatography+A%E3%80%8B&f=8&rsv_bp=1&rsv_sug2=1&sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D)
 
+### week2
+
+3. Sample normalization methods in quantitative metabolomics
+
+    度量代谢组学中的样本归一化方法
+
+时间 | 期刊 | 作者 | 机构
+-|-|-|-
+2015/7 | Journal of Chromatography A| Yiman Wu, Liang Li | |
+
+    key: metabolomics, quantiative metabolomics profilling, Metabolite quantification, Sample normalization, Liquid chromatography, Mass spectrometry
+
+[文献地址](https://www.ncbi.nlm.nih.gov/pubmed/26763302)
