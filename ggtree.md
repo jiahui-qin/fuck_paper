@@ -1,6 +1,6 @@
 # Yuguangchuang ggtree
 
-###problems and issues
+### problems and issues
 树结构：人类不友好
 newick
 nexus
@@ -10,7 +10,7 @@ heterogeneous associated data
 
 annotating tree
 
-###ggtree
+### ggtree
 使用来自不同源的数据进行注释
 
 groups.google.com/forum/#!forum/nioc-ggtree
