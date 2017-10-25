@@ -1,5 +1,5 @@
 ## Sample normalization methods in quantitative metabolomics
-###度量代谢组学中的样本归一化方法
+### 度量代谢组学中的样本归一化方法
 
 时间 | 期刊 | 作者 | 机构
 -|-|-|-
@@ -24,15 +24,19 @@ MS结合同位素标准或样品的同位素标记，也可以产生关于代谢
 
 变异的来源：生物学变异(越多越好)，技术性变异(越少越好)
 
+***
+***
+
 ## Altered metabolite levels and correlations in patients with colorectal cancer and polyps detected using seemingly unrelated regression analysis
 
-###使用似不相关回归分析(SUR)检测结直肠癌和息肉患者的代谢物水平和相关性
+### 使用似不相关回归分析(SUR)检测结直肠癌和息肉患者的代谢物水平和相关性
 
 时间 | 期刊 | 作者 | 机构
 -|-|-|-
 2017/8 | Metabolomics | Chen Chen | |
 
     key: Seemingly unrelated regression · Colorectal cancer · Colorectal polyp · Metabolic profiling Metabolomics · Targeted mass spectrometry · Clinical factors
+
 代谢组学技术可以识别很多疾病的生物标志物，但是混杂因素会对其造成影响。本篇文章使用SUR统计性别、BMI、年龄等因素对结直肠癌的影响，在113种血清代谢物中用SUR鉴定出了判断CRC患者、息肉、健康的20种代谢物，此外，在应用SUR模型之前或之后，使用ParCorA算法为所有代谢物组构建的相关代谢物网络显示了CRC和息肉患者相对于健康对照的显着改变。
 
 息肉患者被认为有很高可能性发展为CRC。根据生物样本和这些研究中使用的分析技术，已经得出了不同的CRC区分生物标志物。 然而，特征代谢物受许多因素的影响，如性别，年龄，BMI，吸烟，酒精消费等。衍生的疾病生物标志常常被这些因素中的一个或多个所混淆，因此经常会失败 验证研究。 因此，一般来说，混杂因素的影响是基于代谢组学的生物标志物发现研究的重大挑战。

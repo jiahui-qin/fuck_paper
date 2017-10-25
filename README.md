@@ -41,3 +41,13 @@ README界面做的还是要简介一些，README就只放文献名称、时间�
     key: metabolomics, quantiative metabolomics profilling, Metabolite quantification, Sample normalization, Liquid chromatography, Mass spectrometry
 
 [文献地址](https://www.ncbi.nlm.nih.gov/pubmed/26763302)
+
+4.Altered metabolite levels and correlations in patients with colorectal cancer and polyps detected using seemingly unrelated regression analysis
+
+    使用似不相关回归分析(SUR)检测结直肠癌和息肉患者的代谢物水平和相关性
+
+时间 | 期刊 | 作者 | 机构
+-|-|-|-
+2017/8 | Metabolomics | Chen Chen | |
+
+    key: Seemingly unrelated regression · Colorectal cancer · Colorectal polyp · Metabolic profiling Metabolomics · Targeted mass spectrometry · Clinical factors
