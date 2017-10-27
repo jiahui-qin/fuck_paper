@@ -5,7 +5,7 @@
 -|-|-|-
 2015/7 | Journal of Chromatography A| Yiman Wu, Liang Li | |
 
-    key: metabolomics, quantiative metabolomics profilling, Metabolite quantification, Sample normalization, Liquid chromatography, Mass spectrometry
+**key: metabolomics, quantiative metabolomics profilling, Metabolite quantification, Sample normalization, Liquid chromatography, Mass spectrometry**
 
 [文献地址](https://www.ncbi.nlm.nih.gov/pubmed/26763302)
 
@@ -33,9 +33,11 @@ MS结合同位素标准或样品的同位素标记，也可以产生关于代谢
 
 时间 | 期刊 | 作者 | 机构
 -|-|-|-
-2017/8 | Metabolomics | Chen Chen | |
+2017/8 | Metabolomics | Chen Chen,  Lingli Deng | 
 
-    key: Seemingly unrelated regression · Colorectal cancer · Colorectal polyp · Metabolic profiling Metabolomics · Targeted mass spectrometry · Clinical factors
+**key: Seemingly unrelated regression · Colorectal cancer · Colorectal polyp · Metabolic profiling Metabolomics · Targeted mass spectrometry · Clinical factors**
+
+[文献地址](https://link.springer.com/article/10.1007%2Fs11306-017-1265-0)
 
 代谢组学技术可以识别很多疾病的生物标志物，但是混杂因素会对其造成影响。本篇文章使用SUR统计性别、BMI、年龄等因素对结直肠癌的影响，在113种血清代谢物中用SUR鉴定出了判断CRC患者、息肉、健康的20种代谢物，此外，在应用SUR模型之前或之后，使用ParCorA算法为所有代谢物组构建的相关代谢物网络显示了CRC和息肉患者相对于健康对照的显着改变。
 
@@ -45,8 +47,14 @@ MS结合同位素标准或样品的同位素标记，也可以产生关于代谢
 
 chen在2015年的文献有提到过SUR，SUR由多个回归方程组成，每个方程提供一个响应变量(代谢物水平)
 
-SUR模型的建立：调查所有的113中代谢物的水平如何受到下列人口学变量的影响：(age, age2, gender, BMI, BMI2, smoking status, alcohol status, diagnosis, as well as the interactions between diagnosis and the other covariates.),可以得到113个回归方差，每一个有15个协变量：第i个样本中第j个代谢物的水平可以被第i个样本中第k个协变量所影响，每一个协变量都有自己的系数。误差在每个样本之中相互独立，但是可以在这些方程中相关。使用(backward variable elimination, BVE)来消除p>0.05的协变量。同时根据这113个代谢物属于不同的代谢通路，将其分为29个生物相关组，进一步应用SUR分析评估疾病风险对不同代谢组的影响。使用ParCorA算法构建每一组的代谢物网络：计算每一对代谢物之间的pearson相关系数，如果相关性的p值小于0.01.则将其连接起来。
+SUR模型的建立：调查所有的113中代谢物的水平如何受到下列人口学变量的影响：(age, age2, gender, BMI, BMI2, smoking status, alcohol status, diagnosis, as well as the interactions between diagnosis and the other covariates.),可以得到113个回归方差，每一个有15个协变量：第i个样本中第j个代谢物的水平可以被第i个样本中第k个协变量所影响，每一个协变量都有自己的系数。误差在每个样本之中相互独立，但是在同一样本之中是相关的。这里SUR模型的建立参考同一作者的上篇文章[Exploring Metabolic Profile Differences between Colorectal Polyp Patients and Controls Using Seemingly Unrelated Regression](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4729298/)
+
+使用(backward variable elimination, BVE)来消除p>0.05的协变量。同时根据这113个代谢物属于不同的代谢通路，将其分为29个生物相关组，进一步应用SUR分析评估疾病风险对不同代谢组的影响。使用ParCorA算法构建每一组的代谢物网络：计算每一对代谢物之间的pearson相关系数，如果相关性的p值小于0.01.则将其连接起来。
 
 列好SUR方程之后使用BVE进行筛选，0个变量被筛出，然后使用这些预测因子，多变量线性回归分别分析每一种代谢物，挑选出了20种代谢物(table 2)。然后对29组分别进行SUR分析，有3组没有表现出显著差异(table 3)。进一步研究诊断和人口统计学变量对胆汁酸代谢组(bile acid metabolism group)的影响：建立两个SUR模型，一个仅有人口统计学因素，一个仅有诊断因素，分别测试二者的影响：诊断因素的p值是0.913，人口统计学变量是3.16e-8
 
 相关性分析：对第14组的CRC、息肉、健康进行相关性分析，并且构建代谢物网络，可以发现网络的复杂性依次变大(fig.1、2)
+
+*这篇文章读起来有很多困惑，比如建立两个SUR模型，分别用人口学因素和诊断因素做，没有解释做出来的结果的意义，感觉很怪*
+
+*看到最后回顾一下作者发现了一个作者单位是Department of Electronic Science and Communication Engineering, State Key Laboratory for Physical Chemistry of Solid Surfaces, Xiamen University, Xiamen 361005, Fujian, China，这么熟悉简直血崩。发现这是邓伶俐师姐做的，喵喵喵？师姐说这个没有价值？喵喵喵重新看吧。*

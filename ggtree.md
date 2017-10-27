@@ -33,3 +33,5 @@ geom包括 aesthetics:描述可视化特征 scales：对于每一个要可视化
 treeio这个包可以读取其他文件格式的树的信息
 
 [ggtree](http://www.bioconductor.org/packages/release/bioc/vignettes/ggtree/inst/doc/treeImport.html)
+
+*我还是比较困惑一个树结构应该怎么存放呢，像是二叉树一样的结构嘛？最近在做决策树也遇到了一样的困惑*
