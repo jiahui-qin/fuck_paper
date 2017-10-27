@@ -4,6 +4,7 @@
 时间 | 期刊 | 作者 | 机构
 -|-|-|-
 2007 |Journal of Chromatography A|M Katajamaa & M Oresic | |
+
 **key:Metabolomics; MassMass; Spectrometry;Chromatography; Liquids; LC-MS; Metabolite; Identification; Quantification; Metabolites**
 
 [文献地址](http://xueshu.baidu.com/s?wd=paperuri%3A%28bc76c4208bc32d39d026c9e02fef3732%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0021967307006966&ie=utf-8&sc_us=8005351090699222897)
