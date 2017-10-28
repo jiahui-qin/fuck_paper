@@ -58,3 +58,20 @@ SUR模型的建立：调查所有的113中代谢物的水平如何受到下列�
 *这篇文章读起来有很多困惑，比如建立两个SUR模型，分别用人口学因素和诊断因素做，没有解释做出来的结果的意义，感觉很怪*
 
 *看到最后回顾一下作者发现了一个作者单位是Department of Electronic Science and Communication Engineering, State Key Laboratory for Physical Chemistry of Solid Surfaces, Xiamen University, Xiamen 361005, Fujian, China，这么熟悉简直血崩。发现这是邓伶俐师姐做的，喵喵喵？师姐说这个没有价值？喵喵喵重新看吧。*
+
+***
+***
+
+## Prediction and early diagnosis of complex diseases by edge-network
+
+### 使用边缘网络对复杂疾病的预测和早期诊断
+
+时间 | 期刊 | 作者 | 机构
+-|-|-|-
+2013/10 | BIOINFORMATICS | Xiangtian Yu | |
+
+[文献地址](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btt620)
+
+*这是一篇讲网络的文章，用的是基因，读读看能不能扩展到代谢物上*
+
+这篇文章开发了一种新的基于边的网络，也就是edge-network，通过鉴别相应边缘标志物和它们的动态网络生成物得分来检测疾病的早期信号。基于基因表达谱的二阶统计量来推导出边缘网络能够和传统节点网络结合起来准确表示原始生物系统的随机动力学(高斯分布假设).
