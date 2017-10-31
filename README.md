@@ -10,7 +10,7 @@ README界面做的还是要简介一些，README就只放文献名称、时间�
 
 1.Data processing for mass spectrometry-based metabolomics
 
-**基于代谢组学的质谱数据处理**
+*基于代谢组学的质谱数据处理*
 
 时间 | 期刊 | 作者 | 机构
 -|-|-|-
@@ -39,7 +39,7 @@ README界面做的还是要简介一些，README就只放文献名称、时间�
 
 3.Sample normalization methods in quantitative metabolomics
 
-**度量代谢组学中的样本归一化方法**
+*度量代谢组学中的样本归一化方法*
 
 时间 | 期刊 | 作者 | 机构
 -|-|-|-
@@ -52,7 +52,7 @@ README界面做的还是要简介一些，README就只放文献名称、时间�
 
 4.Altered metabolite levels and correlations in patients with colorectal cancer and polyps detected using seemingly unrelated regression analysis
 
-**使用似不相关回归分析(SUR)检测结直肠癌和息肉患者的代谢物水平和相关性**
+*使用似不相关回归分析(SUR)检测结直肠癌和息肉患者的代谢物水平和相关性*
 
 时间 | 期刊 | 作者 | 机构
 -|-|-|-
@@ -61,3 +61,19 @@ README界面做的还是要简介一些，README就只放文献名称、时间�
 *key: Seemingly unrelated regression · Colorectal cancer · Colorectal polyp · Metabolic profiling Metabolomics · Targeted mass spectrometry · Clinical factors*
 
 [文献地址](https://link.springer.com/article/10.1007%2Fs11306-017-1265-0)
+
+***
+***
+***
+
+## week3
+
+5. Combining NMR and LC/MS Using Backward Variable Elimination:Metabolomics Analysis of Colorectal Cancer, Polyps, and HealthyControls
+
+*使用后向变量消除法连用NMR和LC/MS：CRC、息肉、健康对照组的代谢组学分析*
+
+时间 | 期刊 | 作者 | 机构
+-|-|-|-
+2016/5 | analytical chemistry | Lili Deng | |
+
+[文献地址](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5450811/)

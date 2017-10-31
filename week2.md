@@ -1,3 +1,4 @@
+# 第二周
 ## Sample normalization methods in quantitative metabolomics
 ### 度量代谢组学中的样本归一化方法
 
@@ -54,6 +55,9 @@ SUR模型的建立：调查所有的113中代谢物的水平如何受到下列�
 列好SUR方程之后使用BVE进行筛选，0个变量被筛出，然后使用这些预测因子，多变量线性回归分别分析每一种代谢物，挑选出了20种代谢物(table 2)。然后对29组分别进行SUR分析，有3组没有表现出显著差异(table 3)。进一步研究诊断和人口统计学变量对胆汁酸代谢组(bile acid metabolism group)的影响：建立两个SUR模型，一个仅有人口统计学因素，一个仅有诊断因素，分别测试二者的影响：诊断因素的p值是0.913，人口统计学变量是3.16e-8
 
 相关性分析：对第14组的CRC、息肉、健康进行相关性分析，并且构建代谢物网络，可以发现网络的复杂性依次变大(fig.1、2)
+
 *这篇文章读起来有很多困惑，比如建立两个SUR模型，分别用人口学因素和诊断因素做，没有解释做出来的结果的意义，感觉很怪*
+
 *看到最后回顾一下作者发现了一个作者单位是Department of Electronic Science and Communication Engineering, State Key Laboratory for Physical Chemistry of Solid Surfaces, Xiamen University, Xiamen 361005, Fujian, China，这么熟悉简直血崩。发现这是邓伶俐师姐做的，喵喵喵？师姐说这个没有价值？喵喵喵重新看吧。*
+
 **看一下SUR和协方差去除混杂因素的区别？还有到底是如何去除混杂因素的？**
