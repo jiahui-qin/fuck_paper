@@ -68,7 +68,7 @@ README界面做的还是要简介一些，README就只放文献名称、时间�
 
 ## week3
 
-5. Combining NMR and LC/MS Using Backward Variable Elimination:Metabolomics Analysis of Colorectal Cancer, Polyps, and HealthyControls
+5.Combining NMR and LC/MS Using Backward Variable Elimination:Metabolomics Analysis of Colorectal Cancer, Polyps, and HealthyControls
 
 *使用后向变量消除法连用NMR和LC/MS：CRC、息肉、健康对照组的代谢组学分析*
 
