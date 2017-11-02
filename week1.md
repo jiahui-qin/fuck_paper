@@ -19,8 +19,9 @@
 #### filter
 
 这一步的操作主要用来去掉noise和baseline
-1.Centroding
+1.Centroding 将具有相同峰值的数据点合并*参考一下MZmine是怎么做这一步的？*将所有m/z值分箱至固定的m/z值
 2.将所有直方图转化为一个矩阵：行为m/z，列是rt，value是intensity*可以画个图出来看一下，也许可以用到下边两部？，求每行每列的相关性* 
+![avatar](https://ars.els-cdn.com/content/image/1-s2.0-S0021967307006966-gr2.jpg)
 3.降噪：移动平均窗口、中值滤波器、S-G滤波器、m/z方向的小波变换
 4.关于基线校正：化学噪声，[19]，引起mass range的偏倚，处理基线校正分为两步：1、寻找基线形状(方法很多，[25,23,26,27]) 2、从原始信号中减去基线
 #### feature detection 特征检测
