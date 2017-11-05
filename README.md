@@ -29,6 +29,7 @@ README界面做的还是要简介一些，README就只放文献名称、时间�
 2016/6 | 分析化学研究报告 | 魏莹&李晓晶|长春应化所
 
 *key: 核磁共振; 代谢组学; 主成分分析; 偏最小二乘判别分析; 赭石; *
+
 [文献地址](http://xueshu.baidu.com/s?wd=+%E5%9F%BA%E4%BA%8E1HNMR%E7%BB%99%E8%8D%AF%E8%B5%AD%E7%9F%B3%E5%90%8E%E5%A4%A7%E9%BC%A0%E5%B0%BF%E6%B6%B2%E7%9A%84%E4%BB%A3%E8%B0%A2%E7%BB%84%E5%AD%A6%E5%88%86%E6%9E%90&tn=SE_baiduxueshu_c1gjeupa&cl=3&ie=utf-8&bs=journaluri%3A%28dff5e349c2cf161b%29+%E3%80%8AJournal+of+Chromatography+A%E3%80%8B&f=8&rsv_bp=1&rsv_sug2=1&sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D)
 
 ***
@@ -77,3 +78,29 @@ README界面做的还是要简介一些，README就只放文献名称、时间�
 2016/5 | analytical chemistry | Lili Deng | |
 
 [文献地址](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5450811/)
+
+***
+
+6.Prediction and early diagnosis of complex diseases by edge-network **没看完**
+
+*使用边缘网络对复杂疾病的预测和早期诊断*
+
+时间 | 期刊 | 作者 | 机构
+-|-|-|-
+2013/10 | BIOINFORMATICS | Xiangtian Yu | |
+
+[文献地址](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btt620)
+
+***
+
+7.Automated metabolite identification from biological fluid 1H NMR spectra **没看完**
+
+*生物体液的核磁共振氢谱的自动代谢物识别*
+
+时间 | 期刊 | 作者 | 机构
+-|-|-|-
+2017/10 | metabolomics | Arianna Filntisi | |
+
+[文献地址](https://link.springer.com/article/10.1007/s11306-017-1286-8)
+
+*Keywords: 1H NMR spectroscopy · Metabolomics · Automated metabolite identification · Human Metabolome Database · Spectra preprocessing*
