@@ -6,6 +6,10 @@ README界面做的还是要简介一些，README就只放文献名称、时间�
 
 然后每周六到下周五开一个新文件来记录这周度过的文献的具体内容，具体的话要记一下文献的大致思想和我的理解
 
+***
+***
+***
+
 ## week1
 
 1.Data processing for mass spectrometry-based metabolomics
@@ -104,3 +108,27 @@ README界面做的还是要简介一些，README就只放文献名称、时间�
 [文献地址](https://link.springer.com/article/10.1007/s11306-017-1286-8)
 
 *Keywords: 1H NMR spectroscopy · Metabolomics · Automated metabolite identification · Human Metabolome Database · Spectra preprocessing*
+
+***
+***
+***
+
+## week5
+
+8.Adjusted Analyses in Studies Addressing Therapy and Harm Users’ Guides to the Medical Literature
+
+时间 | 期刊 | 作者 | 机构
+-|-|-|-
+2017/2 | JAMA |Thomas Agoritsas | |
+
+***
+***
+***
+
+## week7
+
+9.Integrative information theoretic network analysis for genome-wide association study of aspirin exacerbated respiratory disease in Korean population
+
+时间 | 期刊 | 作者 | 机构
+-|-|-|-
+2017/5 | BMC Medical Genomics | Sehee Wang, Hyun-hwan Jeong | |
