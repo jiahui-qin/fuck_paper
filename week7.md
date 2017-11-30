@@ -29,3 +29,5 @@ Single nucleotide polymorphisms (SNP) [单核苷酸多态性](https://www.zhihu.
 最后将两个网络合并起来分析
 
 *这篇文章需要注意的地方就是将两个网络合并起来，然后还有边的权重的选择上都可以借鉴*
+
+*感觉IG的公式写错了不会是我的错觉吧，扫了一遍他引用的[A flexible computational framework for detecting, characterizing, and interpreting statistical patterns of epistasis in genetic studies of human disease susceptibility](http://www.sciencedirect.com/science/article/pii/S0022519305005217?via%3Dihub)感觉他还是写错了*
