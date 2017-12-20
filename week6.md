@@ -25,4 +25,6 @@ QC用在dataset部分：T2D，二型糖尿病。 样本(n=503)是在1991-2005年
 In the case of forced integration data filling (such as the fillPeaks algorithm in the XCMS package) and data imputation, there is the obvious risk of splitting one true informative feature into two or more with either less or wrong information *这段写传统对齐方法的缺点*
 
  features should be sufficiently close in the m/z and the rt domains and also have orthogonal feature vectors：mz，rt上足够接近，在不同的特征向量上正交  In the majority of cases, alignment candidates were only involved with one other candidate在大多数情况下，一个对齐的选项只与另外一个选项有关
+
+ CV：变异系数，标准差除以均值，在这篇文章里可以衡量波动，应该越小越少
  
